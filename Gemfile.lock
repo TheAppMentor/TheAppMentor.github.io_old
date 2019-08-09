@@ -256,7 +256,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
-  jekyll-paginate-v2 (= 2.0.0)
+  jekyll-paginate-v2
   jekyll-whiteglass
   tzinfo (~> 1.2)
   tzinfo-data
