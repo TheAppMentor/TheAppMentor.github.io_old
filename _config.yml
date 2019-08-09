@@ -33,7 +33,6 @@ plugins:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll_inline_highlight
 
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
